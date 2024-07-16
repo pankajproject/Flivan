@@ -1,4 +1,4 @@
-<div align-item="center">
+<div align-items="center">
   <h1>Flivan</h1>
   
   `A Stunning flight booking landing pages using HTML & CSS`
